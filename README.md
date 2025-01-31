@@ -1,3 +1,4 @@
+![podMORAR (1)](https://github.com/user-attachments/assets/197ad4fa-9c95-466a-b4ab-eeb2b98963b8)
 Para criação do PODcast, usei primeiramente o CHAGPT para ajudar a criar o nome, ainda que não tivesse me dado o nome final, me ajudou a criar o nome PODMorar.
 A capa do Podcast foi realizada no Canva, visto que o midjourney não está liberando versão gratuita para confecção de imagens. No entanto, a imagem da Abi foi anteriormente criada no midjourney.
 Posteriormente utilizei o prompt abaixo para gerar o roteiro do podcast. Com o roteiro pronto utilizei o Eleven Labs para transformar o texto em audio e o CapCut para edição.
